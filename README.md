@@ -3,10 +3,15 @@
 ## About Me:
 
 I'm a Full-Stack Software Engineer 👨🏽‍💻  
+<br/>
 I studied Psychology in college, but made a career change to software because love building things and solving problems.
+<br/>
 My father, grandfather, and great grandfather were all roofers for the majority of their life. Roofing is hard on the body, so I chose to learn how to code instead. 🏠
+<br/>
 I love music of all kinds, but need to pick up my guitar and practice more 🎶 
+<br/>
 I have two dogs and two cats! 🐕‍🦺🐕‍🦺 🐈🐈
+<br/>
 
 
 ## Languages:
